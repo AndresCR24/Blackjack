@@ -53,7 +53,7 @@ class Blackjack:
     
     def verificar_fichas(self):
         pass
-    
+
 class Jugador:
     
     def __init__(self) -> None:
@@ -77,3 +77,4 @@ class casa:
         pass
 
     def hacer_jugada_casa(self):
+        pass
